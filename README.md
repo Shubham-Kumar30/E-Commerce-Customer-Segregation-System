@@ -30,5 +30,7 @@ Conclusions:
   Best Response
 
 Finally, Company should Prioritise: Cluster 3 > Cluster 1 > Cluster 0 > Cluster 2
+
 Cluster 3 & 1 ---> Golden Customers
+
 Cluster 0 & 2 ---> Price-sensitive Customers
